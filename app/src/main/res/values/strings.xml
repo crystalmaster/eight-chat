@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Eight Chat</string>
+    <string name="main_activity">Main Activity</string>
+    <string name="need_a_new_account">SIGN UP</string>
+    <string name="alredy_have_account">SIGN IN</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="email">Email</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="log_out">Log Out</string>
+    <string name="account_setting">Account Setting</string>
+    <string name="all_users">All Users</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="save_change">SAVE CHANGE</string>
+    <string name="todo">TODO</string>
+    <string name="change_avatar">CHANGE AVATAR</string>
+    <string name="change_status">CHANGE STATUS</string>
+    <string name="display_name">Display Name</string>
+    <string name="new_status">New status</string>
+    <string name="wellcome_to">WELLCOME TO</string>
+    <string name="eight_chat">Eight Chat</string>
+    <string name="new_display_name">New display name</string>
+    <string name="sign_in_with_email_and_password">Sign in with email and password</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="add_friend">ADD FRIEND</string>
+    <string name="chats">Chats</string>
+    <string name="discover">Discover</string>
+    <string name="request">Request</string>
+    <string name="profile">Profile</string>
+    <string name="delete_coversation">Delete Coversation</string>
+    <string name="wellcome">WELLCOME</string>
+    <string name="name">Name</string>
+    <string name="status">Status</string>
+</resources>

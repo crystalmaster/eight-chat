@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "179215806934",
+    "firebase_url": "https://eightchat-535c2.firebaseio.com",
+    "project_id": "eightchat-535c2",
+    "storage_bucket": "eightchat-535c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179215806934:android:194d558c142cee62",
+        "android_client_info": {
+          "package_name": "com.eightchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179215806934-3d5cghpjfj0geqj4fsi18608au1l6el4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eightchat",
+            "certificate_hash": "111c4e1e75818b244626c39997fe749d3bad52db"
+          }
+        },
+        {
+          "client_id": "179215806934-3duasmm655f76mht5u259pifqhvs9jtg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuq8DXGCIytNGyPvAMkgz9A7krNXH9lcc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179215806934-3duasmm655f76mht5u259pifqhvs9jtg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
